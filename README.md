@@ -53,6 +53,7 @@ Outreach|Subspace community-ran Twitter account. Repurpose @Subspace memes or ne
 |-----------------|---------------------|--------------|
 |Engineering|Discord Bot that looks for unscrupulous community members|https://github.com/Arsi44/Subspase_discord_checker|
 |Engineering|Subspace missions dashboard|https://github.com/Arsi44/Subspace-dashboard-django|
+|Engineering|Forum  built for subspace protocol in other for projects wanted to build on the protocol to discuss there idea and get feedbacks from the community members, including a possiblity of funding|
 
 
 ## Community
